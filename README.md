@@ -31,6 +31,10 @@ Por cada GameObject he creado un script en el que muestra un mensaje con el nomb
 del objeto, su identificador por consola y un contador que va iterando en cada frame del Update().
 
 ```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
 public class pruebaRobot : MonoBehaviour
 {
 
