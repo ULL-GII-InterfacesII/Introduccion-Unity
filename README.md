@@ -9,9 +9,9 @@ En la Assets Store de Unity podemos descargar los diferentes recursos para usar 
 para esta práctica usaremos los "Standart Assets" y "Space robot kyle".
 Despues de descargar los assets, pulsamos el botón de importar.
 
-![store](./img/store.JPG)
+![store](./image/store.JPG)
 
-![robot](./img/robot.JPG)
+![robot](./image/robot.JPG)
 
 ## 2. Colocación de GameObjects en el escenario.
 
@@ -19,7 +19,7 @@ Dentro de GameObject > 3D Object, podremos elegir diferentes formas 3D prediseñ
 Tambien se pueden añadir Terrenos en GameObject > 3D Object > Terrain, o luces en GameObject > Light > Directional light
  y un punto de luz en GameObject > Light > Point light.
 
-![gameobjects](./img/gameobjects.JPG)
+![gameobjects](./image/gameobjects.JPG)
 
 Ademas he agregado los modelos descargados del Assets Store como Ethan y el Robot.
 
@@ -58,3 +58,4 @@ public class pruebaRobot : MonoBehaviour
 ```
 
 #### Salida del Script por consola:
+
