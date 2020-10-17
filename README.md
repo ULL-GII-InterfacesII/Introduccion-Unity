@@ -59,3 +59,4 @@ public class pruebaRobot : MonoBehaviour
 
 #### Salida del Script por consola:
 
+![robot](./image/consola.GIF)
